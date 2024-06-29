@@ -13,6 +13,7 @@ import { createBrowserRouter } from "react-router-dom";
 
 export const router =  createBrowserRouter(
     [
+        
         {
             path: '/',
             element: <App/>,
@@ -45,8 +46,8 @@ export const router =  createBrowserRouter(
         }
     ],
     {
-         basename:"/books-app",
-    }
+  basename: "/books-app",
+        }
 )
 
 
