@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/IrynaSokolova-Quanandrya.github.io/books-app/static/css/main.3c6925c1.css",
-    "main.js": "/IrynaSokolova-Quanandrya.github.io/books-app/static/js/main.c1f7d392.js",
+    "main.js": "/IrynaSokolova-Quanandrya.github.io/books-app/static/js/main.2dc62a9d.js",
     "static/media/pic.jpg": "/IrynaSokolova-Quanandrya.github.io/books-app/static/media/pic.0ed39e956a97d11f7c67.jpg",
     "static/media/BR.svg": "/IrynaSokolova-Quanandrya.github.io/books-app/static/media/BR.68b7ef409b15b3c337c4acb16e0cae36.svg",
     "index.html": "/IrynaSokolova-Quanandrya.github.io/books-app/index.html",
@@ -17,10 +17,10 @@
     "static/media/Line 1.svg": "/IrynaSokolova-Quanandrya.github.io/books-app/static/media/Line 1.67b413987e8df21bb6ff367bce4537d6.svg",
     "static/media/Line 4.svg": "/IrynaSokolova-Quanandrya.github.io/books-app/static/media/Line 4.0b447d5c5db6f1cb96771cd843fa3733.svg",
     "main.3c6925c1.css.map": "/IrynaSokolova-Quanandrya.github.io/books-app/static/css/main.3c6925c1.css.map",
-    "main.c1f7d392.js.map": "/IrynaSokolova-Quanandrya.github.io/books-app/static/js/main.c1f7d392.js.map"
+    "main.2dc62a9d.js.map": "/IrynaSokolova-Quanandrya.github.io/books-app/static/js/main.2dc62a9d.js.map"
   },
   "entrypoints": [
     "static/css/main.3c6925c1.css",
-    "static/js/main.c1f7d392.js"
+    "static/js/main.2dc62a9d.js"
   ]
 }
